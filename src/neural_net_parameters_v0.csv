@@ -1,0 +1,14 @@
+#Segment;seq2ver_file;similarity_file;OnlyVer;NeuralNet;size;decay;ProbabilityThreshold
+PA;data/versionX/0_dataset_info_complete_ver_PA.txt;data/versionX/1_table_similarity_values_complete_ver_PA.txt;0;data/versionX/2_neural_net_complete_ver_PA;5;0.0001;0.99
+PB1;data/versionX/0_dataset_info_complete_ver_PB1.txt;data/versionX/1_table_similarity_values_complete_ver_PB1.txt;0;data/versionX/2_neural_net_complete_ver_PB1;4;0.0001;0.99
+PB2;data/versionX/0_dataset_info_complete_ver_PB2.txt;data/versionX/1_table_similarity_values_complete_ver_PB2.txt;0;data/versionX/2_neural_net_complete_ver_PB2;5;0.0001;0.99
+MP;data/versionX/0_dataset_info_complete_ver_MP.txt;data/versionX/1_table_similarity_values_complete_ver_MP.txt;0;data/versionX/2_neural_net_complete_ver_MP;3;0.001;0.999
+NP;data/versionX/0_dataset_info_complete_ver_NP.txt;data/versionX/1_table_similarity_values_complete_ver_NP.txt;0;data/versionX/2_neural_net_complete_ver_NP;3;0.001;0.99
+NS;data/versionX/0_dataset_info_complete_ver_NS.txt;data/versionX/1_table_similarity_values_complete_ver_NS.txt;0;data/versionX/2_neural_net_complete_ver_NS;5;0.00001;0.999
+NA;data/versionX/0_dataset_info_complete_ver_NA.txt;;;;;;0.8
+NA1;data/versionX/0_dataset_info_complete_ver_N1.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;1;;;;
+NA2;data/versionX/0_dataset_info_complete_ver_N2.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;22;;;;
+NA3;data/versionX/0_dataset_info_complete_ver_N3.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;0;data/versionX/2_neural_net_complete_ver_NA3;3;0.001;0.999
+NA4;data/versionX/0_dataset_info_complete_ver_N4.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;2;;;;
+NA5;data/versionX/0_dataset_info_complete_ver_N5.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;0;data/versionX/2_neural_net_complete_ver_NA5;5;0.00001;0.999
+NA8;data/versionX/0_dataset_info_complete_ver_N8.txt;data/versionX/1_table_similarity_values_complete_ver_NA.txt;0;data/versionX/2_neural_net_complete_ver_NA8;3;0.001;0.999
