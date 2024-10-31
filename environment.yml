@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - r-base=4.4.1
+  - r-nnet=7.3_19
+  - perl=5.32.1
+  - mafft=7.526
