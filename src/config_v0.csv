@@ -1,0 +1,11 @@
+SIMILARITY_SCRIPT	src/compute_similarity_pair.pl
+SEGMENTS	PA;PB1;PB2;MP;NP;NS;NA
+NA_subtype	NA1;NA2;NA3;NA4;NA5;NA8
+SEPARATOR	_
+NEURAL_NET_CREATOR1	/pbs/data/biv/gianpi/Varie/Genotipi/scripts/1_crea_rete_neurale.pl
+NEURAL_NET_CREATOR2	/pbs/data/biv/gianpi/Varie/Genotipi/scripts/1_crea_rete_neurale.R
+NEURAL_NET_PREDICTOR	src/3_predici_rete_neurale.R
+NEURAL_NET_CORRECTOR	src/4_controlla_e_correggi_predizioni.R
+GENOTYPE_COMPOSITION	data/versionX/genotype2composition.txt
+CDS_RANGE	/pbs/data/biv/gianpi/Varie/Genotipi/check/sequence_complete_cds_range.txt
+TEMP_DIR	/pbs/temp/gianpi
