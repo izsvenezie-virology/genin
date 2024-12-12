@@ -60,7 +60,7 @@ GenIn is licensed under the GNU Affero v3 license (see [LICENSE](LICENSE)).
 
 # Fundings
 
-This work was supported by KAPPA-FLU and by the NextGeneration EU-MUR PNRR Extended Partnership initiative on Emerging Infectious Diseases (Project no. PE00000007, INF-ACT).
+This work was supported by KAPPA-FLU HORIZON-CL6-2022-FARM2FORK-02-03 (grant agreement No 101084171) and by the NextGeneration EU-MUR PNRR Extended Partnership initiative on Emerging Infectious Diseases (Project no. PE00000007, INF-ACT).
 
 >Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HEDEA). 
 >Neither the European Union nor the granting authority can be held responsible for them
