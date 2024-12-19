@@ -2,7 +2,7 @@
 
 GenIn is an open-source tool based on neural nets to rapidly and automatically assign genotypes to clade 2.3.4.4b H5 viruses collected in Europe since October 2020, starting from complete nucleotide genome sequences. Genotypes are assigned using the methods described [here](https://doi.org/10.1093%2Fve%2Fveae027).
 
-The updated list of all genotypes recognized by GenIn is available in the latest version of file "genotype2composition.txt" available in the "data" folder.
+The updated list of all genotypes recognized by GenIn is available in the [latest version of file "genotype2composition.txt" available in the "data" folder](https://github.com/izsvenezie-virology/genin/blob/main/data/version1/genotype2composition.txt).
 
 
 ## Installation
